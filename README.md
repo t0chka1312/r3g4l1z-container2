@@ -3,6 +3,6 @@ A Web CTF for the Ethical Hacking module of CETI, running in a Docker container 
 
 # CTF Cloning and Setup
 ```bash
-git clone https://github.com/t0chka1312/r3g4l1z-Container.git
-cd r3g4l1z-Container
+git clone https://github.com/t0chka1312/r3g4l1z-container2.git
+cd r3g4l1z-container2
 docker-compose up --build
