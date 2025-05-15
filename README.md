@@ -1,2 +1,2 @@
 # r3g4l1z-container2
-A web CTF in Docker
+A Web CTF for the Ethical Hacking module of CETI, running in a Docker container with 1 flag exploiting the CVE-2024-3400.
